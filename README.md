@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hasan Faris M</h1>
 <h3 align="center">A passionate UI/UX Designer from 'PMIST'{Tanjore}</h3>
 
-- 🔭 I’m currently working on **Responsive Portfolio**
+- 🔭 I’m currently working on **My OwnResponsive Portfolio**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
