@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hasan Faris M</h1>
-<h3 align="center">AI Engineer | ML Engineer</h3>
+<h3 align="center">AI/ML Enthusiast</h3>
 
 - 🔭 I’m currently working on **My Own Responsive Portfolio**
 
