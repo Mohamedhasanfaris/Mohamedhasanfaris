@@ -7,10 +7,6 @@
   <a href="https://github.com/Mohamedhasanfaris"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Mohamedhasanfaris"></a>
   <img src="https://komarev.com/ghpvc/?username=Mohamedhasanfaris&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasanfaris" />
 </p>
-🌱 I’m currently learning AI & ML
-💬 Ask me about AI and ML
-📫 How to reach me: mohamedhasanfaris1@gmail.com
-⚡ Fun fact: I love exploring new technologies and enhancing my skills!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></a>
